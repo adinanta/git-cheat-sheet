@@ -1,6 +1,6 @@
 # Git-Cheat-Sheet
 
-This MindMap illustrate the most commonly used git commands. Commands are grouped together according to to functions they performed. Brief description of each command are written in comment section and can be viewed using xmind software.
+This MindMap illustrate the most commonly used git commands. Commands are grouped together according to functions they performed. Brief description of each command are written in comment section and can be viewed using xmind software.
 
 - This cheat sheet is work in progress and hence more updated are expected to come
 - Anyone is welcome to contribute and please send me a Pull Request
